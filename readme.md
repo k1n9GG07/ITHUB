@@ -12,3 +12,7 @@
 ## 1. Создание класса по заданным параметарм
 
 [wellcome!](https://github.com/k1n9GG07/flutter)
+
+# DevOps
+
+[wellcome!](https://github.com/k1n9GG07/DevOps)
